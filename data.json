@@ -1,0 +1,22 @@
+{
+    "Aqua": [
+        "Valuri Abisale (poate invoca valuri masive care pot îneca inamicii)",
+        "Transformare Marină (poate transforma pe sine în creaturi marine pentru a călători rapid în apă)"
+    ],
+    "Sylvanus": [
+        "Legătura Pădurii (poate comunica cu plantele pentru a-l ajuta în luptă)",
+        "Rădăcini Înșelătoare (poate extinde rădăcinile sale pentru a captura inamicii și a-i imobiliza)"
+    ],
+    "Ignis": [
+        "Flăcările Furioase (poate manipula focul în jurul său pentru a ataca inamicii)",
+        "Explozie Infernală (poate concentra o cantitate mare de energie într-o sferă de foc care explodează la impact)"
+    ],
+    "Aurum": [
+        "Transformare Aurică (poate transforma obiectele în aur sau poate crea armuri și arme din aur)",
+        "Exploatare Mineră (poate controla și manipula metale și pietre prețioase pentru a crea obstacole defensive)"
+    ],
+    "Terr": [
+        "Controlul Pământului (poate controla și manipula pământul pentru a crea cutremure care să înghită inamicii)",
+        "Solidificarea Terenului (poate solidifica pământul sub picioarele inamicilor pentru a-i încetini sau imobiliza)"
+    ]
+}
